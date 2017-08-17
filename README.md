@@ -13,4 +13,4 @@ the header and the data. The default CAD data header is currently
   DATE AND TIME formatted as: DD/MM/YYYY HH:MM:SS
   
 
-If a CAD system outputs the header and date and time as such then this will work. 
+ 
